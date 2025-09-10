@@ -50,4 +50,3 @@ The goal is to help **investors, founders, and VCs** make data-driven decisions.
 
 ---
 
-## 📂 Project Structure
